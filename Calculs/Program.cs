@@ -22,7 +22,7 @@ namespace Calculs
             while (choix != "0")
             {
                 // affiche le menu et saisi le choix
-                Console.WriteLine("Addition ....................... 1");
+                Console.WriteLine("Additions ....................... AA");
                 Console.WriteLine("Multiplication ................. 2");
                 Console.WriteLine("Quitter ........................ 0");
                 Console.Write("Choix :                          ");
